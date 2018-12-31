@@ -139,33 +139,33 @@ canvas{display:block}
 
 
 
-h {
+h1 {
   position: absolute;
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
   font-family: "Source Sans Pro";
-  font-size: 1.3em;
-  font-weight: 200;
-  -webkit-user-select: none;
-  user-select: none;
-}
-
-h1 {
-  position: absolute;
-  top: 62%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #fff;
-  font-family: "Source Sans Pro";
-  font-size: 1.3em;
+  font-size: 2em;
   font-weight: 200;
   -webkit-user-select: none;
   user-select: none;
 }
 
 h2 {
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 2em;
+  font-weight: 200;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+h3 {
   position: absolute;
   top: 65%;
   left: 50%;
@@ -177,9 +177,9 @@ h2 {
   -webkit-user-select: none;
   user-select: none;
 }
-h3 {
+h4 {
   position: absolute;
-  top: 80%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
