@@ -141,7 +141,7 @@ canvas{display:block}
 
 h {
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
@@ -154,7 +154,7 @@ h {
 
 h1 {
   position: absolute;
-  top: 57%;
+  top: 62%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
@@ -167,7 +167,7 @@ h1 {
 
 h2 {
   position: absolute;
-  top: 59%;
+  top: 67%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
@@ -179,7 +179,7 @@ h2 {
 }
 h3 {
   position: absolute;
-  top: 62%;
+  top: 72%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
