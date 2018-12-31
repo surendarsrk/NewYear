@@ -189,3 +189,16 @@ h3 {
   -webkit-user-select: none;
   user-select: none;
 }
+
+h4 {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 2em;
+  font-weight: 400;
+  -webkit-user-select: none;
+  user-select: none;
+}
